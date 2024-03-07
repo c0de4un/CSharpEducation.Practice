@@ -4,7 +4,7 @@ namespace Task26
     public class Person
     {
         public int mAge;
-        public string mName;
+        public string mName = "";
 
         public bool CheckIsAdult()
         {
